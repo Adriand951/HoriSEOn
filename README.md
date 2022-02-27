@@ -8,7 +8,7 @@ Help companies reach customers, enhance sales, beter improve cost management
 * CSS
 
 ## Website
-https://github.com/Adriand951/horiseon.git
+https://adriand951.github.io/horiseon/
 
 ## Contribution
 Made with ❤️️ by Adrian Davila
